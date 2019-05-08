@@ -1097,7 +1097,18 @@ pre .javascript .function {
 }
 .headband {
   height: 3px;
-  background: #222;
+  background: #8b5a00;
+  background-image: linear-gradient(90deg, #f79533 0%, #f37055 15%, #ef4e7b 30%, #a166ab 44%, #5073b8 58%, #1098ad 72%, #07b39b 86%, #6dba82 100%);
+  background-position-x: initial;
+  background-position-y: initial;
+  background-size: initial;
+  background-repeat-x: initial;
+  background-repeat-y: initial;
+  background-attachment: initial;
+  background-origin: initial;
+  background-clip: initial;
+  background-color: #8b5a00;
+  background-image: linear-gradient(90deg, #f79533 0%, #f37055 15%, #ef4e7b 30%, #a166ab 44%, #5073b8 58%, #1098ad 72%, #07b39b 86%, #6dba82 100%);
 }
 .site-meta {
   margin: 0;
@@ -1667,7 +1678,7 @@ pre .javascript .function {
   width: 0;
   z-index: 1040;
   box-shadow: inset 0 2px 6px #000;
-  background: #222;
+  background-image: #222;
   -webkit-transform: translateZ(0);
 }
 .sidebar a {
@@ -1935,7 +1946,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff5b57;
+  background: #2af749;
 }
 .links-of-blogroll {
   font-size: 13px;
